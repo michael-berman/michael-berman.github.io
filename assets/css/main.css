@@ -718,6 +718,15 @@
 
 	}
 
+	.education-row {
+		display: flex;
+		justify-content: center;
+	}
+
+	.education-icons img {
+		width: 12em;
+	}
+
 	@media screen and (max-width: 1140px) {
 
 		.row > * {
