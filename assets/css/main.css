@@ -2361,10 +2361,9 @@
 		}
 
 		#profile-pic img {
-			margin: 5em 0 2em 10em;
-			width: 50%;
-			left: 40%;
-	    top: 100px;
+			margin: 8em 0 2em 10em;
+			width: 60%;
+			border-radius: 50%;
 		}
 
 			.image.fit img {
